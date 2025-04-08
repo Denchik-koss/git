@@ -15,7 +15,7 @@ namespace git
         public string CountryName { get; set; }
         public string HotelImage { get; set; }
 
-        public string HotelImageууу { get; set; }
+
     }
 
 }
